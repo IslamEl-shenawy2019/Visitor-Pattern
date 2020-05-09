@@ -1,0 +1,2 @@
+this is simple implementation about VisitorDesign Pattern 
+i present a problem and try to solve it with visitor Design Pattern
