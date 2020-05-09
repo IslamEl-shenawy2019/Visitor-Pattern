@@ -10,7 +10,6 @@ namespace Visitor_Pattern
             var document = new HtmlDocument();
             document.Add(new HeadingNode());
             document.Add(new AnchorNode());
-            //document.HighlightAllNodes();
             document.execute(new HighlightOperation());
             document.execute(new PlainTextOperation());
 
